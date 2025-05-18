@@ -1,0 +1,51 @@
+{
+  "gameTitle": "Spot the Difference - Troll's Cooking Adventure",
+  "images": {
+    "image1": "images/forest-original.jpg",
+    "image2": "images/forest-modified.jpg"
+  },
+  "differences": [
+    {
+      "x": 16.5,
+      "y": 40.0,
+      "width": 6.0,
+      "height": 6.0,
+      "description": "Troll's eyes open vs closed (bottom-left)"
+    },
+    {
+      "x": 60.0,
+      "y": 55.0,
+      "width": 12.0,
+      "height": 10.0,
+      "description": "Pot soup color changed from brown to green"
+    },
+    {
+      "x": 68.0,
+      "y": 38.0,
+      "width": 10.0,
+      "height": 10.0,
+      "description": "Extra mushroom in elder troll's hand"
+    },
+    {
+      "x": 85.0,
+      "y": 32.0,
+      "width": 20.0,
+      "height": 30.0,
+      "description": "Elder troll's clothes color changed "
+    },
+    {
+      "x": 40.0,
+      "y": 10.0,
+      "width": 10.0,
+      "height": 10.0,
+      "description": "Middle troll's hair color changed from brown to red"
+    },
+    {
+      "x": 86.0,
+      "y": 80.0,
+      "width": 12.0,
+      "height": 16.0,
+      "description": "Elder troll's stool leg design changed"
+    }
+  ]
+}
