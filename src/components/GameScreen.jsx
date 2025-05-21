@@ -18,8 +18,8 @@ const GameScreen = ({ gameConfig, onBackToConfig }) => {
   const timerRef = useRef(null)
 
   // Keep track of actual dimensions - FIX: Correctly define state and setter
-  const [image1Dimensions, setImage1Dimensions] = useState({ width: 0, height: 0 })
-  const [image2Dimensions, setImage2Dimensions] = useState({ width: 0, height: 0 })
+  const [, setImage1Dimensions] = useState({ width: 0, height: 0 })
+  const [, setImage2Dimensions] = useState({ width: 0, height: 0 })
 
   useEffect(() => {
     // Start the timer
