@@ -1,0 +1,14 @@
+.game-controls {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  border-top: 1px solid var(--border-color);
+  margin-top: auto;
+}
+
+@media (max-width: 768px) {
+  .game-controls {
+    flex-wrap: wrap;
+  }
+}
